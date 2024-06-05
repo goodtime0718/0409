@@ -1,0 +1,49 @@
+@charset "utf-8";
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header h1 {
+    color: #F4FBFA;
+    text-align: center;
+    background-color: #258575;
+    font-size: 46px;
+    border-radius: 15px;
+}
+article p a:link {
+    color: #640000;
+    text-decoration: none;
+    font-size: 24px;
+}
+article p a:hover {
+    color: #FFFFFF;
+    text-decoration: underline;
+    background-color: #1B2EB1;
+    font-size: 40px;
+}
+article p a:visited {
+    color: #C19899;
+    text-decoration: underline;
+}
+
+
+
+
+aside h3 {
+    color: #428A85;
+    text-decoration: none;
+}
+article h4 {
+    color: #F0F1F9;
+    background-color: #1E325C;
+    text-align: center;
+    text-decoration: line-through;
+    border-radius: 86px;
+}
+
+
+nav {
+    text-align: left;
+    text-decoration: underline;
+}
